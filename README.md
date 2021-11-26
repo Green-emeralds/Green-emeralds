@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Green-emeralds
+- Im currently learning to code in python so all code on here is for learning for me!
